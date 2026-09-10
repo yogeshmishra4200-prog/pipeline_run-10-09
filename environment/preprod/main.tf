@@ -8,3 +8,5 @@ module "stg" {
   source     = "../../modules/storage_accounts"
   stg        = var.y
 }
+
+# hey buddy apke papa aaye hai
